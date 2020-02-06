@@ -15,7 +15,15 @@
         <version>1.18.10</version>
         <scope>provided</scope>
         </dependency>
+		
+		
     </dependencies>
+	<properties>
+  <sonar.projectKey>hoangytm_LeagueRanking</sonar.projectKey>
+  <sonar.organization>hoangytm</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>f7ee7deee5cec1672396d67d25d7cf810ff57a19</sonar.login>
+</properties>
 
 
 </project>
